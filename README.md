@@ -1,3 +1,2 @@
 # amptests2
-Another try
-Added readme
+This is for testing and tweaking AMP templates.
